@@ -1,7 +1,7 @@
 ## Introduction
 Product owner asks to show all customer accounts details on screen.
 During first development iteration user must be able to see account
-name and for savings account goal image.
+name and if account is savings account then additionally goal image.
 Interviewer is your teammate, who is already working on the project for quite a while.
 He can advise you on technical solutions. Therefore, feel free to communicate with him and ask for help.
 
@@ -12,6 +12,7 @@ required information from repositories.
 
 ## Tech requirements
 * Code must be written in kotlin
+* Follow clean code practices
 * Cover code with tests
 
 ## Notes
