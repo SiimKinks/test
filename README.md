@@ -3,7 +3,7 @@ Product owner asks to show all customer accounts details on screen.
 During first development iteration user must be able to see account
 name and if account is savings account then additionally goal image.
 Interviewer is your teammate, who is already working on the project for quite a while.
-He can advise you on technical solutions. Therefore, feel free to communicate with him and ask for help.
+Therefore, feel free to communicate with him and ask for help.
 
 ## Description
 * Create new `UseCase` named `ObserveAccountDetails` which gathers all
@@ -16,5 +16,5 @@ required information from repositories.
 * Cover code with tests
 
 ## Notes
-* Repositories signature cannot be changed
+* Repositories signature and internal package files cannot be changed
 * Imagine that dependencies are provided with dependency injection
