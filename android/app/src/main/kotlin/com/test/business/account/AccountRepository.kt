@@ -1,6 +1,6 @@
 package com.test.business.account
 
-import com.test.CustomerId
+import com.test.business.customer.CustomerId
 import io.reactivex.Observable
 
 interface AccountRepository {

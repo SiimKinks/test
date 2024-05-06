@@ -1,6 +1,6 @@
 package com.test.business.account
 
-import com.test.CustomerId
+import com.test.business.customer.CustomerId
 import java.math.BigDecimal
 
 typealias AccountId = String
